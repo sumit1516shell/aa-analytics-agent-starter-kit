@@ -1,5 +1,5 @@
 """
-get_token.py — fetches a fresh Adobe access token automatically.
+get_token.py - fetches a fresh Adobe access token automatically.
 OPTIONAL: only needed for the fully-unattended setup (scheduled runs).
 If you use the OAuth login in VS Code, you do NOT need this file.
 
@@ -9,7 +9,7 @@ Setup (one time):
 2. Fill in the three values below.
 3. NEVER share or commit this file once filled in.
 
-Uses only Python's built-in libraries — nothing to install.
+Uses only Python's built-in libraries - nothing to install.
 """
 import json
 import urllib.request
