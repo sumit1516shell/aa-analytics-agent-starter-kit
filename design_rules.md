@@ -1,4 +1,4 @@
-# Design Rules (EDIT ME — describe YOUR brand)
+# Design Rules (EDIT ME - describe YOUR brand)
 
 The agent reads this file when building slides. Replace with your organisation's rules.
 
@@ -13,7 +13,7 @@ The agent reads this file when building slides. Replace with your organisation's
 
 ## Every slide must have
 - Footer: "<Company> Confidential · Source: Adobe Analytics · <Month Year>"
-- Your logo per the .potx template — never repositioned
+- Your logo per the .potx template - never repositioned
 
 ## Charts
 - Use brand colours in order, no 3D, no shadows
