@@ -1,7 +1,7 @@
 HOW TO SCHEDULE THE MONTHLY RUN
 ================================
 
-MAC — using cron
+MAC - using cron
 ----------------
 1. Open Terminal
 2. Type:  crontab -e
@@ -11,7 +11,7 @@ MAC — using cron
 
 4. Save and close. Done.
 
-WINDOWS — using Task Scheduler
+WINDOWS - using Task Scheduler
 ------------------------------
 1. Press Start → type "Task Scheduler" → open it
 2. Click "Create Basic Task"
@@ -26,6 +26,6 @@ Create run_monthly.bat in this folder containing:
    python get_token.py > .token
    copilot --agent "Read instructions.md and execute for last month"
 
-NOTE: the exact Copilot CLI command depends on your installed version —
+NOTE: the exact Copilot CLI command depends on your installed version -
 run "copilot --help" to check yours. If you don't use the CLI, simply
 open VS Code on the 1st of the month and type the one-line prompt instead.
